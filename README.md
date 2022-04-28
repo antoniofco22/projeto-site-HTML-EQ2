@@ -1,4 +1,4 @@
-<h1>Projeto site HTML+git Turing</h1>
+<h1>Projeto site HTML+ git Turing</h1>
 
 <h2>prjeto da equipe 02:<h2>
 <h3><p>MATHEUS HENRIQUE DIAS DE ARAUJO PINTO</p>
